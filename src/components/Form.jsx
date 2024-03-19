@@ -87,9 +87,9 @@ const Form = () => {
             className="px-3 py-2 border border-gray-300 rounded-md"
           >
             <option value="">Please select...</option>
-            <option value="elec">Electronic</option>
-            <option value="food">Food</option>
-            <option value="skin">Skincare</option>
+            <option value="Electronic">Electronic</option>
+            <option value="Food">Food</option>
+            <option value="SkinCare">Skincare</option>
           </select>
         </div>
         <button
