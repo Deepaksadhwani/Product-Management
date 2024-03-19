@@ -29,7 +29,7 @@ const Form = () => {
     event.preventDefault();
     const data = {
       id: productId,
-      Price: productPrice,
+      price: productPrice,
       name: productName,
       option: productOption,
     };
